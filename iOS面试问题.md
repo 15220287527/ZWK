@@ -1,22 +1,24 @@
 iOS面试问题
 
 对象的ISA指针指向  
-copy是深拷贝还是浅拷贝
+atomic和nonatomic的区别
 KVO实现原理
-Category如何添加成员变量
 +load和+initialize的区别 
 Block类型、变量捕获机制
 weak和assign区别
 runtime使用场景、消息发送机制 
+message send如果找不到对象，后续会做哪些处理
 线程同步方案
 RunLoop和线程的关系、线程保活
 HTTPS请求过程、加密方式
 TCP三次握手
-有哪些方式解决NSTimer循环引用问题
-启动优化、卡顿优化、卡顿检测
+什么情况下会出现循环引用，有哪些方式解决NSTimer循环引用问题
+APP启动时间如何优化、卡顿优化、卡顿检测
+列表视图滑动优化有哪些方法
+UIView和CALayer有什么区别
 讲讲MVC、MVVM的区别
-用过哪些设计模式
-项目中的难点
+
+setState
 
 
 类和结构体有什么区别

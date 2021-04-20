@@ -13,6 +13,11 @@ int main(int argc, const char * argv[]) {
         // insert code here...
         
         [Test new];
+        NSLog(@"zwk_%@", [NSBundle mainBundle]);
+        
+        
+        
+        
         
         /*
          
